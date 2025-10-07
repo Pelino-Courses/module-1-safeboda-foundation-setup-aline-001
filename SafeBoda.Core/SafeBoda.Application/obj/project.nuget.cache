@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "orISAb7ZO8g=",
+  "dgSpecHash": "mPwYxpx2IQI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.App\\SafeBoda.App.csproj",
+  "projectFilePath": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.Application\\SafeBoda.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

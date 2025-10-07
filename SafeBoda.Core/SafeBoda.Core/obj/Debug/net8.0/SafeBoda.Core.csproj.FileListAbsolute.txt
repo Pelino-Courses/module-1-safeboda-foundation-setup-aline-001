@@ -9,3 +9,4 @@ C:\Users\user\RiderProjects\SafeBoda.Core\SafeBoda.Core\obj\Debug\net8.0\SafeBod
 C:\Users\user\RiderProjects\SafeBoda.Core\SafeBoda.Core\obj\Debug\net8.0\refint\SafeBoda.Core.dll
 C:\Users\user\RiderProjects\SafeBoda.Core\SafeBoda.Core\obj\Debug\net8.0\SafeBoda.Core.pdb
 C:\Users\user\RiderProjects\SafeBoda.Core\SafeBoda.Core\obj\Debug\net8.0\ref\SafeBoda.Core.dll
+C:\Users\user\RiderProjects\SafeBoda.Core\SafeBoda.Core\obj\Debug\net8.0\SafeBoda.Core.sourcelink.json

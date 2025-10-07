@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.App\\SafeBoda.App.csproj",
-      "projectName": "SafeBoda.App",
-      "projectPath": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.App\\SafeBoda.App.csproj",
+      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.Application\\SafeBoda.Application.csproj",
+      "projectName": "SafeBoda.Application",
+      "projectPath": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.Application\\SafeBoda.Application.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.App\\obj\\",
+      "outputPath": "C:\\Users\\user\\RiderProjects\\SafeBoda.Core\\SafeBoda.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
