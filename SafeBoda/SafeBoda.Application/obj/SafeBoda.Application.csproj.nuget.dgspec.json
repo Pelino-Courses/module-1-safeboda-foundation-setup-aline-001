@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Application\\SafeBoda.Application.csproj": {}
+    "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Application\\SafeBoda.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Application\\SafeBoda.Application.csproj": {
+    "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Application\\SafeBoda.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Application\\SafeBoda.Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Application\\SafeBoda.Application.csproj",
         "projectName": "SafeBoda.Application",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Application\\SafeBoda.Application.csproj",
+        "projectPath": "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Application\\SafeBoda.Application.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Application\\obj\\",
+        "outputPath": "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Core\\SafeBoda.Core.csproj": {
-                "projectPath": "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Core\\SafeBoda.Core.csproj"
+              "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Core\\SafeBoda.Core.csproj": {
+                "projectPath": "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Core\\SafeBoda.Core.csproj"
               }
             }
           }
@@ -62,18 +62,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Core\\SafeBoda.Core.csproj": {
+    "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Core\\SafeBoda.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Core\\SafeBoda.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Core\\SafeBoda.Core.csproj",
         "projectName": "SafeBoda.Core",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Core\\SafeBoda.Core.csproj",
+        "projectPath": "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Core\\SafeBoda.Core.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda.Core\\obj\\",
+        "outputPath": "C:\\Users\\user\\module-1-safeboda-foundation-setup-aline-001\\SafeBoda\\SafeBoda.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
